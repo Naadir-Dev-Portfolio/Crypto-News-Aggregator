@@ -1,7 +1,7 @@
 {
   "section": "python",
-  "category": "trading",
-  "n": 2,
+  "category": "quant",
+  "n": 3,
   "title": "Crypto News Aggregator",
   "desc": "Scrapes CryptoPanic, organises articles by coin and sentiment, outputs clean Excel reports for market research.",
   "code": "https://github.com/Naadir-Dev-Portfolio/Crypto-News-Aggregator/blob/main/main.py",
